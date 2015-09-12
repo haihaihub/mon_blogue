@@ -20,11 +20,6 @@
 
 > citation
 
-Lorenzo
-
-Costa
-
-Lorenzo          Costa
 
 ->
 
@@ -54,7 +49,6 @@ Lorenzo          Costa
 VNC
 Aller dans le finder
 cmd + K
-vnc://nico@nicomac.local
 
 
 http://haihaihub.github.io/mon_blogue
