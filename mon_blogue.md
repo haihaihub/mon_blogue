@@ -56,13 +56,6 @@ Aller dans le finder
 cmd + K
 vnc://nico@nicomac.local
 
-E    lle
-m    et
-d    u
-v    ieux 
-p    ain
-s    ur
-s    on
-b    alcon
-2015
-Emdvpssb2015
+
+http://haihaihub.github.io/mon_blogue
+
