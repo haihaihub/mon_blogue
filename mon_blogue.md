@@ -8,7 +8,7 @@
 - ethernet
 - USB
 - HDMI
-![](images/P1030838.JPG)
+![](images/interface_1.jpg)
 
 
 ![](images/interface_2.jpg)
