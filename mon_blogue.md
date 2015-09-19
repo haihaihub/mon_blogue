@@ -8,7 +8,7 @@
 - ethernet
 - USB
 - HDMI
-![](images/interface_1.jpg)
+![](images/P1030838.JPG)
 
 
 ![](images/interface_2.jpg)
@@ -23,18 +23,18 @@
 
 # Systèmes d'exploitation:
 
--OS X
--Windows
--Linux
--Unix
+- OS X
+- Windows
+- Linux
+- Unix
 
 # Les périphériques de stokage:
 
--Micro SD
--CD
--clef USB
--Disque dur magnétique
--carte SD
+- Micro SD
+- CD
+- clef USB
+- Disque dur magnétique
+- carte SD
 
 # Bureau à distance
 
@@ -51,4 +51,4 @@ http://haihaihub.github.io/mon_blogue
 
 # 2015-09-19
 
-Donner les droits d'administration à un utilisateur 
+Donner les droits d'administration à un utilisateur
