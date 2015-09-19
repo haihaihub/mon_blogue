@@ -14,22 +14,14 @@
 ![](images/interface_2.jpg)
 
 
-## titre 2
-
-### titre 3
-
-> citation
-
-
-->
 
 
 <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
-↑
+
 
 <http://unicode-table.com/fr/search/?q=flèche>
 
-# Systèmes d'exploitation: 
+# Systèmes d'exploitation:
 
 -OS X
 -Windows
@@ -46,10 +38,17 @@
 
 # Bureau à distance
 
+
 VNC
 Aller dans le finder
 cmd + K
+vnc://nico@nicomac.local
 
 
 http://haihaihub.github.io/mon_blogue
 
+
+
+# 2015-09-19
+
+Donner les droits d'administration à un utilisateur 
