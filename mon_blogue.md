@@ -13,7 +13,7 @@
 
 ![](images/interface_2.jpg)
 
-
+![](images/interface_4.jpg)
 
 
 <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
@@ -52,3 +52,25 @@ http://haihaihub.github.io/mon_blogue
 # 2015-09-19
 
 Donner les droits d'administration à un utilisateur
+
+Dossier = Folder (mac)   (windows) ou (linux) =répertoire = directory.
+
+Ne pas confondre avec les fichiers = files
+
+Voila des commandes pour le Terminal
+
+- ls => Listing des répertoires et fichiers
+- pwd => print working directory
+- git status
+- git add .
+- git commit -m "commentaires"
+- git push (mettre sur internet) = upload
+- git pull (prendre d'internet) = download
+
+## Utilisation de DTerm
+
+cmd + shift + enter => ouvre DTerm
+
+ls + enter => exécute `ls` dans DTerm
+
+ls + cmd + enter => exécute `ls` dans Terminal
