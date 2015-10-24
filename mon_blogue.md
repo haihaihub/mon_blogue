@@ -66,6 +66,7 @@ Voila des commandes pour le Terminal
 - git commit -m "commentaires"
 - git push (mettre sur internet) = upload
 - git pull (prendre d'internet) = download
+- git log (historique des versions)
 
 # 2015-09-26
 
