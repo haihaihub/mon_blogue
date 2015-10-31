@@ -119,7 +119,7 @@ pipe (alt+7) envoye le résultat
 
 Les 3 types de fichiers installation de programme
 
-- dmg: disc image  
+- dmg: disc image ≡ Un disque (usb,disque dur...)
 - Zip archive: fichier
 - pkg= package (installation wizard)
 - Protection = gate keeper
