@@ -116,3 +116,10 @@ pipe (alt+7) envoye le résultat
 écran retina = ~230 px/in = résolution ou définition
 écran standard = ~130 pt/in
 2,54cm = 1 inch = 1"
+
+Les 3 types de fichiers installation de programme
+
+- dmg: disc image  
+- Zip archive: fichier
+- pkg= package (installation wizard)
+- Protection = gate keeper
