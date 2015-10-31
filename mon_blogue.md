@@ -8,12 +8,12 @@
 - ethernet
 - USB
 - HDMI
-![](images/interface_1.jpg)
+![](http://haihaihub.github.io/mon_blogue/images/interface_1.jpg)
 
 
-![](images/interface_2.jpg)
+![](http://haihaihub.github.io/mon_blogue/images/interface_2.jpg)
 
-![](images/interface_4.jpg)
+![](http://haihaihub.github.io/mon_blogue/images/interface_4.jpg)
 
 
 <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
