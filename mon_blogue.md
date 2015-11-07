@@ -123,3 +123,5 @@ Les 3 types de fichiers installation de programme
 - Zip archive: fichier
 - pkg= package (installation wizard)
 - Protection = gate keeper
+
+![](http://haihaihub.github.io/mon_blogue/images/P1030957.JPG)
